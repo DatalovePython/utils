@@ -139,8 +139,8 @@ FTC can only act after the fact if a company's privacy practices are misleading 
 While the FTC is doing what it can to ensure apps are keeping their promises to consumers around the handling of their
 sensitive health information, the rate at which these health apps are hitting the market demonstrates just how
 immense (巨大的) of a challenge this is.
-As to the prospects (前景) for federal legislation, commentators suggest that comprehensive federal privacy legislation seems
-unlikely in the short term. States have begun implementing their own solutions to shore up protections for
+As to the prospects (前景) for federal(联邦) legislation(法律), commentators(评论家) suggest that comprehensive(全面) federal privacy legislation seems
+unlikely in the short term. States have begun implementing their own solutions to shore up(支撑) protections for
 consumer-generated health data. California has been at the forefront of state privacy efforts with the California
 Consumer Privacy Act of 2018. Virginia，Colorado and Utah have also recently passed state consumer data privacy
 legislation.
@@ -177,13 +177,13 @@ def _is_mangle_prerouting_useless(self):
 
 
 """
-High school students eager to stand out in the college application process often participate in a litany (大量的) of
-extracurricular (课外的) activities hoping to bolster (增强) their chances of admission to a selective undergraduate institution.
-However, college admissions experts say that the quality of a college hopeful's extracurricular activities matters more
+High school students eager(渴望的) to stand out in the college application process often participate(参加) in a litany (大量的) of
+extracurricular (课外的) activities hoping to bolster (增强) their chances of admission to a selective undergraduate(本科) institution(机构).
+However, college admissions experts say that the quality of a college hopeful's extracurricular activities matters(质量) more
 than the number of activities he or she participates in.
 Sue Rexford, the director of college guidance at the Charles E. Smith Jewish Day School, says it is not necessary for
 a student filling out the Common Application to list 10 activities in the application.
-"No college will expect that a student has a huge laundry list of extracurriculars that they have been passionately
+"No college will expect that a student has a huge laundry list(一长串清单) of extracurriculars that they have been passionately
 involved in each for an extended period of time," Rexford wrote in an email.
 Experts say it is tougher to distinguish (区分) oneself in a school-affiliated extracurricular activity that is common among
 high school students than it is to stand out while doing an uncommon activity.
@@ -216,10 +216,6 @@ organization.
 
 
 """
-
-
-
-
 
 
 
