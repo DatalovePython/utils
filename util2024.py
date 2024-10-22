@@ -1,19 +1,4 @@
 
-"""
-THE UK is facing a future construction (建造，建筑） crisis (危机） because of a failure to plant trees to produce wood, a trade body has warned.
-	Confor chiefs believe urgent action is needed to reduce the country's reliance (依赖）
-	 on timber (木材） imports and provide a stable (稳定的） supply of wood for future generations.
-	Currently only 20 per cent of the UK's wood requirement is homegrown while it remains the second-largest net importer of timber in the world, bringing in around £7.5 billion annually (每年）.
-	Coming at a time of fresh incentives (激励措施） from the UK government for landowners to grow more trees, the trade body says these don't go far enough and fail to promote the benefits of planting them to boost (增加） timber supplies.
-	“Not only are we facing a carbon crisis now, but we will also be facing a future construction crisis because of a failure to plant trees to produce wood,"said Stuart Goodall, chief executive (首席执行官） of Confor."For decades we have not taken responsibility for investing in our domestic (国内的） wood supply, leaving us exposed (暴露） to fluctuating (波动的） prices and fighting for future supplies of wood as global demand rises and our own supplies fall."
-	The UK has ideal conditions for growing wood to build low-carbon homes and is a global leader in certifying (证明） that its forests are sustainably (可持续地） managed, Confor say. While around three quarters of Scottish homes are built from Scottish timber, the use of home-grown wood in England is only around 25 per cent.
-	The causes of the UK’s current position are complex and range from outdated (过时的） perceptions (观念） of productive forestry to the decimation (大量毁灭） of trees from grey squirrels. It also encompasses (包含） significant (重大的） hesitation (犹豫） on behalf of farmers and other landowners to invest in longer term planting projects.
-	While productive tree planting can deliver real financial benefits to rural economies and contribute to the UK’s net zero strategy, the focus of government support continues to be on food production and the rewilding (再野生化） and planting of native woodland solely (仅仅） for biodiversity.
-	The recently launched Woodland Creation Offer, which pledges (承诺） farmers and landowners £10,000 for each hectare planted, failed to mention timber production, albeit (尽管） the Forestry Commission's Richard Stanford has since spoken of the importance of it.
-	Stuart added: "While food production and biodiversity health are clearly of critical (关键的） importance, we need our land to also provide secure (可靠的） supplies of wood for construction, manufacturing and to contribute to net zero.
-	“While the UK government has stated its ambition (雄心） for more tree planting, there has been little action on the ground. Confor is now calling for much greater impetus (推动力） behind those aspirations (愿望） to ensure we have enough wood to meet increasing demand.”
-
-"""
 
 """
 Anger over AI's role in exacerbating inequality (加剧不平等) could endanger the technology's future.
@@ -68,4 +53,253 @@ def _is_mangle_prerouting_useless(self):
                 return True
     return False
 
-  
+
+
+"""
+One of the biggest challenges in keeping unsafe aging drivers (老年驾驶员) off the road is convincing them that it’s time to turn
+over the keys.
+
+“It’s a complete life-changer” when someone stops — or is forced to stop — driving, said Anne M. Menke, a former risk
+manager for the Ophthalmic Mutual Insurance Co. (眼科互助保险公司).
+
+Part of the problem in keeping older drivers safe is that the difficulties are addressed piecemeal (零碎地) by different
+professions with different focuses, including gerontologists (老年学家), highway administration officials, automotive engineers (汽车工程师)
+and others, said Elizabeth Dugan, an associate professor of gerontology at the University of Massachusetts. “There’s
+not a National Institute of Older Driver Studies,” she said. “We need better evidence on what makes drivers unsafe” and
+what can help, said Dugan, who has written extensively about healthy aging for Consumer Reports and other organizations.
+
+One thing that does seem to work is requiring drivers to report in person for license renewal. Mandatory (强制的) in-person
+renewal was associated with a 31 percent reduction in fatal crashes involving drivers 85 or older, according to one
+study. Passing vision tests also produced a similar decline in fatal crashes for those drivers, although there appeared
+to be no benefit from combining the two.
+
+Many older drivers don’t see eye doctors or can’t afford to. Primary care providers have their hands full and may not
+be able to follow through with patients who have trouble driving because they can’t turn their heads or remember where
+they are going — or have gotten shorter and haven’t changed their seat settings sufficiently to reach car pedals easily.
+
+As long as there are other cars on the roads, self-driving cars won’t solve the problems of crashes, said Dugan.
+Avoiding dangers posed by all those human drivers would require too many algorithms (算法), she said. But we need to do more
+to improve safety, said Dugan.
+
+“If we’re going to have 100-year lives, we need cars that a 90-year-old can drive comfortably.”
+"""
+
+
+@check_retry_desired(attempts=3, interval=30, desired_result=False)
+def _is_mangle_prerouting_useless(self):
+    """
+    判断 mangle prerouting 链中无用 的entry
+    预期删除所有来重建
+    :return:
+    """
+    table = ManglePreRoutingTable(self.sbox_path)
+    for port_info in self.port_info:
+        entrys = table.entrys(filter_dict={
+            "protocol": port_info['Protocol'],
+            "port": port_info['PublishedPort']
+        })
+
+        for entry in entrys:
+            if entry.markset != self.markset:
+                logger.warning("%s may exist useless prerouting ,"
+                            " expect markset %s ,actual %s",
+                            self.svc.name, self.markset, entry)
+                return True
+    return False
+
+
+
+
+
+
+
+
+
+
+"""
+
+If you look at the apps on your phone, chances are you have at least one related to your health—and probably several.
+Whether it is a mental (心理的) health app, a fitness (健身的) tracker, a connected health device or something else, many of us are
+taking advantage of this technology to keep better track of our health in some shape or form. Recent research from the
+Organization for the Review of Care and Health Applications found that 350,000 health apps were available on the
+market, 90,000 of which launched in 2020 alone.
+While these apps have a great deal to offer, it is not always clear how the personal information we input (输入) is collected,
+safeguarded (保护) and shared online. Existing health privacy law, such as the Health Insurance Portability and Accountability
+Act, is primarily focused on the way hospitals, doctors’ offices, clinics and insurance companies store health records
+online. The health information these apps and health data tracking wearables (可穿戴设备) are collecting typically does not receive
+the same legal protections.
+Without additional protections in place, companies may share (and potentially monetize) personal health information in
+a way consumers may not have authorized or anticipated. In 2021, Flo Health faced a Federal Trade Commission（FTC）
+investigation (调查). The FTC alleged (指控) in a complaint that "despite express privacy claims, the company took control of users'
+sensitivity fertility (生育) data and shared it with third parties.” Flo Health and the FTC settled the matter with a Consent
+Order requiring the company to get app users' express affirmative consent before sharing their health information as
+well as to instruct the third parties to delete the data they had obtained.
+Section 5 of the FTC Act empowers the FTC to initiate (启动) enforcement action against unfair or deceptive acts, meaning the
+FTC can only act after the fact if a company's privacy practices are misleading or cause unjustified consumer harm.
+While the FTC is doing what it can to ensure apps are keeping their promises to consumers around the handling of their
+sensitive health information, the rate at which these health apps are hitting the market demonstrates just how
+immense (巨大的) of a challenge this is.
+As to the prospects (前景) for federal legislation, commentators suggest that comprehensive federal privacy legislation seems
+unlikely in the short term. States have begun implementing their own solutions to shore up protections for
+consumer-generated health data. California has been at the forefront of state privacy efforts with the California
+Consumer Privacy Act of 2018. Virginia，Colorado and Utah have also recently passed state consumer data privacy
+legislation.
+
+
+
+"""
+
+
+
+
+
+
+
+
+
+
+
+
+@check_retry_desired(attempts=3, interval=30, desired_result=False)
+def _is_mangle_prerouting_useless(self):
+    """
+    判断 mangle prerouting 链中无用 的entry
+    预期删除所有来重建
+    :return:
+    """
+    table = ManglePreRoutingTable(self.sbox_path)
+    for port_info in self.port_info:
+        entrys = table.entrys(filter_dict={
+            "protocol": port_info['Protocol'],
+            "port": port_info['PublishedPort']
+        })
+
+        for entry in entrys:
+            if entry.markset != self.markset:
+                logger.warning("%s may exist useless prerouting ,"
+                            " expect markset %s ,actual %s",
+                            self.svc.name, self.markset, entry)
+                return True
+    return False
+
+
+
+
+
+"""
+High school students eager to stand out in the college application process often participate in a litany (大量的) of
+extracurricular (课外的) activities hoping to bolster (增强) their chances of admission to a selective undergraduate institution.
+However, college admissions experts say that the quality of a college hopeful's extracurricular activities matters more
+than the number of activities he or she participates in.
+Sue Rexford, the director of college guidance at the Charles E. Smith Jewish Day School, says it is not necessary for
+a student filling out the Common Application to list 10 activities in the application.
+"No college will expect that a student has a huge laundry list of extracurriculars that they have been passionately
+involved in each for an extended period of time," Rexford wrote in an email.
+Experts say it is tougher to distinguish (区分) oneself in a school-affiliated extracurricular activity that is common among
+high school students than it is to stand out while doing an uncommon activity.
+"The competition to stand out and make an impact is going to be much stiffer (更激烈的), and so if they're going to do a popular
+activity, I'd say, be the best at it," says Sara Harberson, a college admission consultant.
+High school students who have an impressive personal project they are working on independently often impress colleges,
+experts say.
+"For example, a student with an interest in entrepreneurship (创业) could demonstrate skills and potential by starting a
+profitable small business," Olivia Valdes, the founder of Zen Admissions consulting firm, wrote in an email.
+Joseph Adegboyega-Edun, a Maryland high school guidance counselor, says unconventional extracurricular activities can
+help students impress college admissions offices, assuming they demonstrate serious commitment. "Again, since one of
+the big questions high school seniors must consider is 'What makes you unique?', having an uncommon extracurricular
+activity vs. a conventional one is an advantage," he wrote in an email.
+Experts say demonstrating talent in at least one extracurricular activity can help in the college admissions process,
+especially at top-tier (顶级的) undergraduate institutions.
+"Distinguishing yourself in one focused type of extracurricular activity can be a positive in the admissions process,
+especially for highly selective institutions, where having top grades and test scores is not enough," Katie Kelley,
+an admissions counselor at IvyWise admissions consultancy, wrote in an email. "Students need to have that quality or hook
+that will appeal to admissions officers and allow them to visualize how the student might come and enrich their campus
+community."
+Extracurricular activities related to the college major declared on a college application are beneficial (有益的), experts
+suggest. "If you already know your major, having an extracurricular that fits into that major can be a big plus," says
+Mayghin Levine, the manager of educational opportunities with The Cabbage Patch Settlement House, a Louisville,
+Kentucky, nonprofit community center.
+High school students who have had a strong positive influence on their community through an extracurricular activity
+may impress a college and win a scholarship, says Erica Gwyn, a former math and science magnet program assistant at a
+public high school who is now executive director of the Kaleidoscope Careers Academy in Atlanta, a nonprofit
+organization.
+
+
+
+"""
+
+
+
+
+
+
+
+@check_retry_desired(attempts=3, interval=30, desired_result=False)
+def _is_mangle_prerouting_useless(self):
+    """
+    判断 mangle prerouting 链中无用 的entry
+    预期删除所有来重建
+    :return:
+    """
+    table = ManglePreRoutingTable(self.sbox_path)
+    for port_info in self.port_info:
+        entrys = table.entrys(filter_dict={
+            "protocol": port_info['Protocol'],
+            "port": port_info['PublishedPort']
+        })
+
+        for entry in entrys:
+            if entry.markset != self.markset:
+                logger.warning("%s may exist useless prerouting ,"
+                            " expect markset %s ,actual %s",
+                            self.svc.name, self.markset, entry)
+                return True
+    return False
+
+
+
+
+
+
+
+"""
+With the smell of coffee and fresh bread floating in the air, stalls bursting with colorful vegetables and tempting (诱人的)
+cheeses, and the buzz of friendly chats, farmers’ markets are a feast (盛宴) for the senses. They also provide an opportunity
+to talk to the people responsible for growing or raising your food, support your local economy (经济) and pick up fresh
+seasonal produce (农产品)—all at the same time.
+Farmers’ markets are usually weekly or monthly events, most often with outdoor stalls, which allow farmers or
+producers to sell their food directly to customers. The size or regularity (规律性) of markets can vary from season to season,
+depending on the area’s agricultural (农业的) calendar, and you’re likely to find different produce on sale at different times
+of the year. By cutting out the middlemen, the farmers secure more profit for their produce. Shoppers also benefit from
+seeing exactly where—and to whom—their money is going.
+"""
+
+
+
+
+
+
+@check_retry_desired(attempts=3, interval=30, desired_result=False)
+def _is_mangle_prerouting_useless(self):
+    """
+    判断 mangle prerouting 链中无用 的entry
+    预期删除所有来重建
+    :return:
+    """
+    table = ManglePreRoutingTable(self.sbox_path)
+    for port_info in self.port_info:
+        entrys = table.entrys(filter_dict={
+            "protocol": port_info['Protocol'],
+            "port": port_info['PublishedPort']
+        })
+
+        for entry in entrys:
+            if entry.markset != self.markset:
+                logger.warning("%s may exist useless prerouting ,"
+                            " expect markset %s ,actual %s",
+                            self.svc.name, self.markset, entry)
+                return True
+    return False
+
+
+
+
