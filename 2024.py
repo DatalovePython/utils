@@ -10,8 +10,6 @@ THE UK is facing a future construction crisis because of a failure to plant tree
       Stuart added: "While food production and biodiversity health are clearly of critical importance, we need our land to also provide secure supplies of wood for construction, manufacturing and to contribute to net zero.
       “While the UK government has stated its ambition for more tree planting, there has been little action on the ground. Confor is now calling for much greater impetus behind those aspirations to ensure we have enough wood to meet increasing demand.”
 
-
-
 Your social life is defined as "the activities you do with other people, for pleasure, when you are not working". It's important to have a social life, but what's right for one person won’t be right for another. Some of us feel energised by spending lots of time with others, （ 1  ） some of us may feel drained, even if it’s doing something we enjoy.
 
 This is why finding a （  2  ） in your social life is key. Spending too much time on your own, not （  3  ） others, can make you feel lonely and （  4  ）. Loneliness is known to impact on your mental health and （  5  ） a low mood. Anyone can feel lonely at any time. This might be especially true if, （  6  ） you are working from home and you are （  7  ）on the social conversations that happen in the office. Other life changes also （  8  ） periods of loneliness too, such as retirement, changing a job or becoming a parent.
