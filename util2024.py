@@ -150,16 +150,6 @@ legislation.
 """
 
 
-
-
-
-
-
-
-
-
-
-
 @check_retry_desired(attempts=3, interval=30, desired_result=False)
 def _is_mangle_prerouting_useless(self):
     """
