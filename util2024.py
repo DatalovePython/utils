@@ -17,14 +17,32 @@ THE UK is facing a future construction (建造，建筑） crisis (危机） bec
 
 """
 Anger over AI's role in exacerbating inequality (加剧不平等) could endanger the technology's future.
-In her new book Cogs and Monsters: What Economics Is, and What It Should Be, Diane Coyle, an economist at Cambridge University, argues that the digital economy requires new ways of thinking about progress.
-“Whatever we mean by the economy growing, by things getting better, the gains will have to be more evenly shared than in the recent past,” she writes. “An economy of tech millionaires (科技百万富翁) or billionaires (亿万富翁) and gig workers (零工工作者), with middle-income jobs undercut by automation (自动化削弱), will not be politically sustainable.”
-Improving living standards and increasing prosperity for more people will require greater use of digital technologies to boost productivity in various sectors, including health care and construction, says Coyle. But people can’t be expected to embrace the changes if they’re not seeing the benefits—if they’re just seeing good jobs being destroyed.
-In a recent interview with MIT Technology Review, Coyle said she fears that tech’s inequality problem could be a roadblock (障碍) to deploying (部署) AI. “We’re talking about disruption (颠覆),” she says. “These are transformative technologies that change the ways we spend our time every day, that change business models that succeed.” To make such “tremendous changes (巨大变革),” she adds, “you need social buy-in (社会认同).”
-Instead, says Coyle, resentment (怨恨) is simmering (酝酿) among many as the benefits are perceived to go to elites (精英) in a handful of prosperous cities.
-In the US, for instance, during much of the 20th century the various regions of the country were—in the language of economists—“converging (趋同),” and financial disparities (差异) decreased. Then, in the 1980s, came the onslaught (冲击) of digital technologies, and the trend reversed itself. Automation wiped out many manufacturing (制造业) and retail (零售业) jobs. New, well-paying tech jobs were clustered (聚集) in a few cities.
-The dominance (主导地位) of a few cities in the invention and commercialization (商业化) of AI means that geographical disparities in wealth will continue to soar (飙升). Not only will this foster political and social unrest (动荡), but it could, as Coyle suggests, hold back the sorts of AI technologies needed for regional economies to grow.
-Part of the solution could lie in somehow loosening the stranglehold (扼制) that Big Tech has on defining the AI agenda. That will likely take increased federal funding for research independent of the tech giants. Muro and others have suggested hefty (巨额的) federal funding to help create US regional innovation centers, for example.
+
+In her new book Cogs and Monsters: What Economics Is, and What It Should Be, Diane Coyle, an economist at Cambridge
+University, argues that the digital economy requires new ways of thinking about progress.
+“Whatever we mean by the economy growing, by things getting better, the gains will have to be more evenly shared than
+in the recent past,” she writes. “An economy of tech millionaires (科技百万富翁) or billionaires (亿万富翁) and gig workers
+(零工工作者), with middle-income jobs undercut by automation (自动化削弱), will not be politically sustainable.”
+Improving living standards and increasing prosperity for more people will require greater use of digital technologies
+to boost productivity in various sectors, including health care and construction, says Coyle. But people can’t be
+expected to embrace the changes if they’re not seeing the benefits—if they’re just seeing good jobs being destroyed.
+In a recent interview with MIT Technology Review, Coyle said she fears that tech’s inequality problem could be a
+roadblock (障碍) to deploying (部署) AI. “We’re talking about disruption (颠覆),” she says. “These are transformative
+technologies that change the ways we spend our time every day, that change business models that succeed.” To make such
+“tremendous changes (巨大变革),” she adds, “you need social buy-in (社会认同).”
+Instead, says Coyle, resentment (怨恨) is simmering (酝酿) among many as the benefits are perceived to go to elites (精英) in
+a handful of prosperous cities.
+In the US, for instance, during much of the 20th century the various regions of the country were—in the language of
+economists—“converging (趋同),” and financial disparities (差异) decreased. Then, in the 1980s, came the onslaught (冲击) of
+digital technologies, and the trend reversed itself. Automation wiped out many manufacturing (制造业) and retail (零售业)
+jobs. New, well-paying tech jobs were clustered (聚集) in a few cities.
+The dominance (主导地位) of a few cities in the invention and commercialization (商业化) of AI means that geographical
+disparities in wealth will continue to soar (飙升). Not only will this foster political and social unrest (动荡), but it
+could, as Coyle suggests, hold back the sorts of AI technologies needed for regional economies to grow.
+Part of the solution could lie in somehow loosening the stranglehold (扼制) that Big Tech has on defining the AI agenda.
+That will likely take increased federal funding for research independent of the tech giants. Muro and others have
+suggested hefty (巨额的) federal funding to help create US regional innovation centers, for example.
+
 """
 
 
