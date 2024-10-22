@@ -69,7 +69,28 @@ High school students who have had a strong positive influence on their community
       Farmers’ markets are usually weekly or monthly events, most often with outdoor stalls, which allow farmers or producers to sell their food directly to customers. The size or regularity of markets can vary from season to season, depending on the area’s agricultural calendar, and you’re likely to find different produce on sale at different times of the year. By cutting out the middlemen, the farmers secure more profit for their produce. Shoppers also benefit from seeing exactly where—and to who—their money is going.
 
 
-
+THE UK is facing a future construction crisis because of a failure to plant trees to produce wood, a trade body has warned.
+英国一家贸易机构警告称，由于未能种植树木以生产木材，英国正面临未来的建筑危机。
+Confor chiefs believe urgent action is needed to reduce the country's reliance on timber imports and provide a stable supply of wood for future generations.
+英国森林与木材协会（Confor）的负责人认为，需要采取紧急行动来减少该国对木材进口的依赖，并为后代提供稳定的木材供应。
+Currently only 20 per cent of the UK's wood requirement is homegrown while it remains the second-largest net importer of timber in the world, bringing in around £7.5 billion annually.
+目前，英国木材需求中只有 20% 是本土生产的，而英国仍然是世界上第二大木材净进口国，每年进口约 75 亿英镑。
+Coming at a time of fresh incentives from the UK government for landowners to grow more trees, the trade body says these don't go far enough and fail to promote the benefits of planting them to boost timber supplies.
+在英国政府为土地所有者提供新的激励措施以种植更多树木之际，该贸易机构表示，这些措施还不够，未能宣传种植树木以增加木材供应的好处。
+“Not only are we facing a carbon crisis now, but we will also be facing a future construction crisis because of a failure to plant trees to produce wood,"said Stuart Goodall, chief executive of Confor."For decades we have not taken responsibility for investing in our domestic wood supply, leaving us exposed to fluctuating prices and fighting for future supplies of wood as global demand rises and our own supplies fall."
+英国森林与木材协会首席执行官斯图尔特・古多尔（Stuart Goodall）表示：“我们现在不仅面临着碳危机，而且由于未能种植树木以生产木材，我们还将面临未来的建筑危机。几十年来，我们一直没有为投资国内木材供应承担责任，这使得我们面临价格波动的风险，并且随着全球需求的增加和我们自己的供应下降，我们不得不为未来的木材供应而努力。”
+The UK has ideal conditions for growing wood to build low-carbon homes and is a global leader in certifying that its forests are sustainably managed, Confor say. While around three quarters of Scottish homes are built from Scottish timber, the use of home-grown wood in England is only around 25 per cent.
+英国森林与木材协会表示，英国拥有种植木材以建造低碳住宅的理想条件，并且在认证其森林得到可持续管理方面处于全球领先地位。虽然大约四分之三的苏格兰房屋是用苏格兰木材建造的，但在英格兰，本土木材的使用量仅约为 25%。
+The causes of the UK’s current position are complex and range from outdated perceptions of productive forestry to the decimation of trees from grey squirrels. It also encompasses significant hesitation on behalf of farmers and other landowners to invest in longer term planting projects.
+英国目前状况的原因很复杂，从对生产性林业的过时观念到灰松鼠对树木的大量破坏。这也包括农民和其他土地所有者在投资长期种植项目方面的重大犹豫。
+While productive tree planting can deliver real financial benefits to rural economies and contribute to the UK’s net zero strategy, the focus of government support continues to be on food production and the rewilding and planting of native woodland solely for biodiversity.
+虽然富有成效的植树可以为农村经济带来真正的经济效益，并为英国的净零战略做出贡献，但政府支持的重点仍然是粮食生产以及仅为生物多样性而进行的野化和本土林地种植。
+The recently launched Woodland Creation Offer, which pledges farmers and landowners £10,000 for each hectare planted, failed to mention timber production, albeit the Forestry Commission's Richard Stanford has since spoken of the importance of it.
+最近推出的林地创建计划承诺为农民和土地所有者每种植一公顷土地提供 10000 英镑，但没有提到木材生产，尽管林业委员会的理查德・斯坦福（Richard Stanford）此后谈到了木材生产的重要性。
+Stuart added: "While food production and biodiversity health are clearly of critical importance, we need our land to also provide secure supplies of wood for construction, manufacturing and to contribute to net zero.
+斯图尔特补充说：“虽然粮食生产和生物多样性健康显然至关重要，但我们也需要我们的土地为建筑、制造业提供安全的木材供应，并为实现净零做出贡献。”
+“While the UK government has stated its ambition for more tree planting, there has been little action on the ground. Confor is now calling for much greater impetus behind those aspirations to ensure we have enough wood to meet increasing demand.”
+“虽然英国政府已经表明了其增加植树的雄心，但在实际行动方面却很少。英国森林与木材协会现在呼吁在这些愿望背后给予更大的推动力，以确保我们有足够的木材来满足不断增长的需求。
 
 
 
