@@ -184,8 +184,8 @@ than the number of activities he or she participates in.
 Sue Rexford, the director of college guidance at the Charles E. Smith Jewish Day School, says it is not necessary for
 a student filling out the Common Application to list 10 activities in the application.
 "No college will expect that a student has a huge laundry list(一长串清单) of extracurriculars that they have been passionately
-involved in each for an extended period of time," Rexford wrote in an email.
-Experts say it is tougher to distinguish (区分) oneself in a school-affiliated extracurricular activity that is common among
+involved in each for an extended(扩展） period of time," Rexford wrote in an email.
+Experts say it is tougher to distinguish (区分) oneself in a school-affiliated（学校附属） extracurricular activity that is common among
 high school students than it is to stand out while doing an uncommon activity.
 "The competition to stand out and make an impact is going to be much stiffer (更激烈的), and so if they're going to do a popular
 activity, I'd say, be the best at it," says Sara Harberson, a college admission consultant.
