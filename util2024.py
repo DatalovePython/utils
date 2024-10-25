@@ -129,15 +129,15 @@ Act, is primarily focused on the way hospitals, doctors’ offices, clinics（�
 online. The health information these apps and health data tracking wearables (可穿戴设备) are collecting typically does not receive
 the same legal protections.
 Without additional protections in place, companies may share (and potentially monetize) personal health information in
-a way consumers may not have authorized or anticipated. In 2021, Flo Health faced a Federal Trade Commission（FTC）
+a way consumers may not have authorized or anticipated（预期）. In 2021, Flo Health faced a Federal Trade Commission（FTC）
 investigation (调查). The FTC alleged (指控) in a complaint（投诉） that "despite（尽管） express privacy claims, the company took control of users'
-sensitivity fertility (生育) data and shared it with third parties.” Flo Health and the FTC settled the matter with a Consent
+sensitivity fertility (生育) data and shared it with third parties.” Flo Health and the FTC settled the matter（解决问题） with a Consent
 Order requiring the company to get app users' express affirmative（肯定，同意） consent（同意） before sharing their health information as
 well as（和...一样） to instruct the third parties to delete the data they had obtained.
-Section 5 of the FTC Act empowers the FTC to initiate (启动) enforcement action against unfair or deceptive acts, meaning the
+Section 5 of the FTC Act empowers（授权） the FTC to initiate (启动) enforcement（实施） action against unfair or deceptive（欺骗） acts, meaning the
 FTC can only act after the fact if a company's privacy practices are misleading or cause unjustified consumer harm.
 While the FTC is doing what it can to ensure apps are keeping their promises to consumers around the handling of their
-sensitive health information, the rate at which these health apps are hitting the market demonstrates just how
+sensitive health information, the rate at which these health apps are hitting the market demonstrates（证明） just how
 immense (巨大的) of a challenge this is.
 As to the prospects (前景) for federal(联邦) legislation(法律), commentators(评论家) suggest that comprehensive(全面) federal privacy legislation seems
 unlikely in the short term. States have begun implementing their own solutions to shore up(支撑) protections for
@@ -185,16 +185,16 @@ Sue Rexford, the director of college guidance at the Charles E. Smith Jewish Day
 a student filling out the Common Application to list 10 activities in the application.
 "No college will expect that a student has a huge laundry list(一长串清单) of extracurriculars that they have been passionately
 involved in each for an extended(扩展） period of time," Rexford wrote in an email.
-Experts say it is tougher to distinguish (区分) oneself in a school-affiliated（学校附属） extracurricular activity that is common among
+Experts say it is tougher to distinguish  oneself（让自己脱颖而出） in a school-affiliated（学校附属） extracurricular activity that is common among
 high school students than it is to stand out while doing an uncommon activity.
-"The competition to stand out and make an impact is going to be much stiffer (更激烈的), and so if they're going to do a popular
+"The competition to stand out and make an impact(冲击） is going to be much stiffer (更激烈的), and so if they're going to do a popular
 activity, I'd say, be the best at it," says Sara Harberson, a college admission consultant.
 High school students who have an impressive personal project they are working on independently often impress colleges,
 experts say.
-"For example, a student with an interest in entrepreneurship (创业) could demonstrate skills and potential by starting a
-profitable small business," Olivia Valdes, the founder of Zen Admissions consulting firm, wrote in an email.
-Joseph Adegboyega-Edun, a Maryland high school guidance counselor, says unconventional extracurricular activities can
-help students impress college admissions offices, assuming they demonstrate serious commitment. "Again, since one of
+"For example, a student with an interest in entrepreneurship (创业) could demonstrate（证明） skills and potential by starting a
+profitable（有利可图） small business," Olivia Valdes, the founder of Zen Admissions consulting firm, wrote in an email.
+Joseph Adegboyega-Edun, a Maryland high school guidance counselor（顾问）, says unconventional（不守旧） extracurricular activities can
+help students impress college admissions offices, assuming（假设） they demonstrate serious commitment（承诺）. "Again, since one of
 the big questions high school seniors must consider is 'What makes you unique?', having an uncommon extracurricular
 activity vs. a conventional one is an advantage," he wrote in an email.
 Experts say demonstrating talent in at least one extracurricular activity can help in the college admissions process,
@@ -210,7 +210,7 @@ Mayghin Levine, the manager of educational opportunities with The Cabbage Patch 
 Kentucky, nonprofit community center.
 High school students who have had a strong positive influence on their community through an extracurricular activity
 may impress a college and win a scholarship, says Erica Gwyn, a former math and science magnet program assistant at a
-public high school who is now executive director of the Kaleidoscope Careers Academy in Atlanta, a nonprofit
+public high school who is now executive director（执行总监） of the Kaleidoscope Careers Academy in Atlanta, a nonprofit（非盈利）
 organization.
 
 
