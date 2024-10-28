@@ -1,3 +1,5 @@
+
+"""
 In the quest for the perfect lawn (草坪), homeowners across the country are taking a shortcut (捷径)—and it is the
 environment (环境) that is paying the price. About eight million square metres of plastic (塑料) grass is sold each year
 but opposition (反对) has now spread to the highest gardening (园艺) circles. The Chelsea Flower Show (切尔西花展) has banned
@@ -24,7 +26,7 @@ matters. However, the use of artificial grass must comply (符合) with the lega
 place to protect biodiversity and ensure sustainable (可持续的) drainage (排水), while measures such as the strengthened
 biodiversity duty should serve to encourage public authorities (公共当局) to consider sustainable alternatives.”
 
-
+"""
 
 
 
@@ -80,7 +82,7 @@ class HAManagerInterface:
 
 
 
-
+"""
 It’s easy to dismiss (否定) as absurd (荒谬的) the federal (联邦的) government’s ideas for plugging (填补) the chronic (长期的)
 funding gap (资金缺口) of our national parks (国家公园). Can anyone really think it’s a good idea to allow Amazon deliveries
 (派送) to your tent in Yosemite (优胜美地) or food trucks (餐车) to line up under the redwood trees (红杉树) at Sequoia National
@@ -112,7 +114,7 @@ year to the national park system—an amount that has been flat (持平) since 2
 exception (例外) of a onetime (一次性的) boost in 2009 as part of the Obama stimulus package (刺激方案). Meanwhile (同时), the
 number of annual visitors has increased by more than 50% since 1980, and now stands at 330 million visitors per year.
 
-
+"""
 
 
 
@@ -163,7 +165,7 @@ class HAManagerInterface:
 
 
 
-
+"""
 The Internet may be changing merely what we remember, not our capacity (能力) to do so, suggests Columbia University
 psychology (心理学) professor Betsy Sparrow. In 2011, Sparrow led a study in which participants (参与者) were asked to record
 40 factoids (小知识) in a computer (“an ostrich’s (鸵鸟的) eye is bigger than its brain,” for example). Half of the
@@ -192,7 +194,7 @@ Storm. “It seems pretty clear that memory is changing, but is it changing for 
 
 
 
-
+"""
 
 
 
@@ -240,7 +242,7 @@ class HAManagerInterface:
 
 
 
-
+"""
 
 Teenagers (青少年) are paradoxical (矛盾的). That’s a mild (温和的) and detached (冷静的) way of saying something that parents
 often express with considerably (相当) stronger language (语言). But the paradox (矛盾) is scientific (科学的) as well as
@@ -286,7 +288,7 @@ up in adolescence and then down again as we age. Somehow (不知何故), when yo
 (令人兴奋的) and new will happen at that party just doesn’t seem to outweigh the effort (努力) of getting up off the couch.
 
 
-
+"""
 
 
 
@@ -333,7 +335,7 @@ class HAManagerInterface:
 
 
 
-
+"""
 
 
 New building regulations (建筑法规) aimed at improving energy efficiency (能效) are set to increase the price of new homes,
@@ -396,7 +398,7 @@ However, the long-term effects (长期影响) of the changes will be more comfor
 Andrew Mellor. “Homeowners will probably recoup (收回) that cost over time in energy bill savings (节能账单节省). It will
 obviously be very volatile (波动的) at the moment, but they will have that benefit (好处) over time.”
 
-
+"""
 
 
 class HAManagerInterface:
@@ -437,7 +439,7 @@ class HAManagerInterface:
 
 
 
-
+"""
 
 In the late 18th century (十八世纪后期), William Wordsworth (威廉·华兹华斯) became famous (出名) for his poems about nature (自然). And
 he was one of the founders (创始人) of a movement called Romanticism (浪漫主义), which celebrated (赞美) the wonders of the
@@ -456,7 +458,7 @@ really come to life (焕发活力) when they are recited (朗诵). This can also
 rhythm (节奏) and sounds of the words become clearer (更加清晰).
 
 
-
+"""
 
 
 class HAManagerInterface:
