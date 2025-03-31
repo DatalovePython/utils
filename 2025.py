@@ -11,9 +11,8 @@ My name is Lu Zhongchuan, and I’m deeply grateful for this opportunity to intr
   I hold a Bachelor’s degree in E - Commerce (Information Management) from Hangzhou Dianzi University Information Engineering School, 
 
 where I graduated with honors, including multiple scholarships and recognition as an Outstanding League Member. 
-Currently, I aim to pursue a Master’s in Engineering Management (MEM) to integrate my technical expertise with advanced managerial knowledge, 
-becoming a leader in technology - driven organizations.
-Academically, my coursework in Management, Statistics, Data Structures, 
+Currently, I aim to pursue a Master’s in Engineering Management (MEM) to integrate my technical expertise with advanced managerial knowledge。
+Academically, my major course is  Management, Statistics, Data Structures, 
 and Management Information Systems laid a robust foundation for both technical and analytical thinking.
 
   I also strengthened my practical skills through certifications like CET - 6 and advanced office software proficiency. 
@@ -32,8 +31,6 @@ These roles taught me to balance technical precision with cross - functional col
 For instance, leading cloud infrastructure development required not just coding skills but also resource allocation and risk management — 
 areas where formal training in engineering management would add immense value.
 
-With a preliminary exam score of 188, I’ve demonstrated readiness for rigorous academic challenges.
-Looking ahead,
                                                                                                                                                                                                                                                                                                                                                                     I aspire to specialize in Information Engineering Management, focusing on optimizing IT project lifecycles through data - driven decision - making. As a CPC member, I prioritize teamwork and ethical leadership, values I will uphold throughout my studies and career. This MEM program aligns perfectly with my vision to drive innovation at the intersection of technology and management.
 Thank you for your consideration. I’m eager to contribute my passion and learn from this esteemed program.
 
