@@ -8,7 +8,7 @@
 Good morning / afternoon, respected professors.
 My name is Lu Zhongchuan, and I’m deeply grateful for this opportunity to introduce myself. 
 
-  I hold a Bachelor’s degree in E - Commerce (Information Management) from Hangzhou Dianzi University Information Engineering School, 
+  I hold a Bachelor’s degree in E - Commerce (Information Management) from Hangzhou Dianzi University Information Engineering Colleage, 
 
 where I graduated with honors, including multiple scholarships and recognition as an Outstanding League Member. 
 Currently, I aim to pursue a Master’s in Engineering Management (MEM) to integrate my technical expertise with advanced managerial knowledge。
