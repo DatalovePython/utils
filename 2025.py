@@ -35,7 +35,7 @@ areas where formal training in engineering management would add immense value.
 Thank you for your consideration. I’m eager to contribute my passion and learn from this esteemed program.
 
 
-Good morning/afternoon, dear professors.
+Good morning/afternoon, dear professors and teachers
 I’m Lu Zhongchuan. Thank you for this opportunity to introduce myself.
 
 Education Background
