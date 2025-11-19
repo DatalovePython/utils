@@ -1,30 +1,94 @@
 
 """
-In the quest for the perfect lawn (草坪), homeowners across the country are taking a shortcut (捷径)—and it is the
-environment (环境) that is paying the price. About eight million square metres of plastic (塑料) grass is sold each year
-but opposition (反对) has now spread to the highest gardening (园艺) circles. The Chelsea Flower Show (切尔西花展) has banned
-fake (假) grass from this year’s event, declaring (声明) it to be not part of its ethos (道德理念). The Royal Horticultural
-Society (RHS) (皇家园艺学会), which runs the annual (年度的) show in west London, says it has introduced the ban because of the
-damage (破坏) plastic grass does to the environment and biodiversity (生物多样性).
-Ed Horne, of the RHS, said: “We launched our sustainability (可持续性) strategy (策略) last year and fake grass is just not
-in line with our ethos and views on plastic. We recommend using real grass because of its environmental benefits, which
-include supporting wildlife (野生动物), alleviating (缓解) flooding (洪水) and cooling the environment.”
-The RHS’s decision comes as campaigners (倡导者) try to raise awareness (意识) of the problems fake grass causes. A Twitter
-account, which claims to “cut through the greenwash (漂绿现象)” of artificial (人工的) grass, already has more than 20,000
-followers (关注者). It is trying to encourage people to sign two petitions (请愿书), one calling for a ban on the sale of
-plastic grass and another calling for an “ecological (生态) damage” tax on such lawns. They have gathered (收集) 7,276 and
-11,282 signatures (签名).
-However, supporters (支持者) of fake grass point out that there is also an environmental impact (影响) with natural lawns,
-which need mowing (修剪) and therefore usually consume electricity (电) or petrol (汽油). The industry also points out that
-real grass requires considerable (相当大的) amounts of water, weed killer (除草剂) or other treatments (处理), and that people
-who lay (铺设) fake grass tend to use their garden more. The industry also claims that people who lay fake grass spend an
-average (平均) of £500 on trees or shrubs (灌木) for their garden, which provides habitat (栖息地) for insects (昆虫).
-In response (回应) to another petition last year about banning fake lawns, which gathered 30,000 signatures, the
-government responded that it has “no plans to ban the use of artificial grass.”
-It added: “We prefer to help people and organizations (组织) make the right choice rather than legislating (立法) on such
-matters. However, the use of artificial grass must comply (符合) with the legal and policy (政策) safeguards (保障措施) in
-place to protect biodiversity and ensure sustainable (可持续的) drainage (排水), while measures such as the strengthened
-biodiversity duty should serve to encourage public authorities (公共当局) to consider sustainable alternatives.”
+"""
+Unit One
+Universally recognized as one of the greatest cuisines of the world, Chinese food in all its variety and complexity 
+is unquestionably one of the finest pleasures a visitor can experience in China. 
+ CULINARY DELIGHTS IN CHINA
+
+1 Chinese cuisine is a brilliant facet of Chinese culture, which is proven by the fact that Chinese restaurants are found scattered everywhere throughout the world. Today, 
+
+the culinary industry is developing even more rapidly than before. A decade ago, Beijing had a few thousand restaurants, while today there are over 100,000 restaurants of different sizes in the city.	
+
+2 Regional Chinese Cuisines
+It is widely acknowledged that from the Ming (1368-1644) dynasties onwards, there are eight major schools of cuisine based on regional cooking. They came from Shandong, 
+Sichuan, Guangdong, Fujian, Jiangsu, Zhejiang, Hunan, and Anhui provinces. In addition to these traditional cuisines, the culinary industry in China has undergone great changes, 
+as almost every place has its own local specialties, and as the different cuisines gather together in big cities, such as Beijing.
+
+3 Sichuan, known as Nature's Storehouse, is also a storehouse of cuisine. Here, each and every restaurant provides delicious yet economical culinary fare.
+The ingredients for Sichuan cuisine are simple but the spices used are quite different. Sichuan cuisine is famous for its spicy and hot food, yet just being hot and spicy
+does not necessarily distinguish it from other hot and spicy cuisines such as Hunan or Guizhou cuisines. What is really special about Sichuan cuisine is the use of Chinese 
+prickly ash seeds, the taste of which leaves a feeling of numbness on one's tongue and mouth. Besides this unique spice, Sichuan dishes are usually prepared with other spices such as chili pepper.
+
+Using fermented bean sauce and a set of unique cooking methods, Sichuan cuisine is now famous and popular across the world. In recent years, there have appeared many more renowned r
+estaurants specializing in Sichuan cuisine, such as the Tan Family Fish Head restaurant.
+
+4 Guangdong Province is located in southern China, with a moderate climate and abundant produce all year round. As one of the earliest 
+ports open to foreign trade, the province has developed a culinary culture with its own characteristics that has exerted a far-reaching 
+influence on other parts of China as well as throughout the world where it is the most commonly available Chinese cuisine. 
+Guangdong cuisine is famous for its seafood as well as for its originality and refined cooking processes. Various soups in this cuisine are loved by people all over the country.
+
+5 Zhejiang cuisine is light and exquisite, and is typical of food from along the lower Yangtze River. One famous dish 
+is West Lake Vinegar Fish, which looks pretty and has the delicate refreshing flavors of nature. Many Chinese restaurants in China, 
+as well as in other parts of the world, serve this dish, but often the flavor is less authentic compared to that found in Hangzhou, 
+capital of Zhejiang Province, which has unique access to the fish and water of West Lake.
+
+6 Every Dish Has a Story
+The names of Chinese dishes are diverse, but behind each of the famous dishes is an interesting story explaining why it is popular.
+A good name can make the dish more interesting; however, some names are so eccentric that they may confuse people, both Chinese and foreigners.
+If you only translate the names literally with no explanation, you could make a fool of yourself.
+
+7 Take Goubuli steamed buns in the city of Tianjin for example. These popular buns are all of the same size and handmade. 
+    When served in neat rows on a tray, they look like budding chrysanthemum flowers. The wrapping is thin, the fillings are juicy, 
+    the meat, tender and the taste delicious and not at all greasy. Then, why the name?
+
+8 There is an interesting story behind it. Goubuli steamed buns were first sold in Tianjin out 150 years ago. 
+    A local man by the name of Gouzi (Dog) worked as an apprentice in a shop selling baozi (steamed buns). After three years, 
+he set up his own baozi shop. Because his buns were so delicious, he soon had a thriving business with more and more people coming to buy his buns.
+As hardworking as Gouzi was, he could not keep up with demand so his customers often had to wait a long time to be served. 
+Impatient, some people would call out to urge him on, but as he was so busy preparing the buns, he didn't answer. 
+People therefore came to call his buns Goubuli, meaning "Gouzi pays no attention." This eccentric name, however,
+has had very good promotional effects, and has been used ever since. Goubuli is now a time-cherished brand name in Tianjin.
+
+9 In Zhejiang cuisine, there is a well-known dish called Dongpo Meat. This dish of streaky pork is prepared over a slow fire 
+where the big chunks of pork are braised with green onion, ginger cooking wine, soy sauce, and sugar. The finished dish is bright red in 
+color and the meat is tender and juicy and, like the Goubuli buns, not at all greasy. This dish was named after Su Dongpo (1037-1101), a great poet of the 
+Northern Song Dynasty (960-1127), who created it when he was an official in Hangzhou. It is said that, when he was in charge of the drainage work for the West Lake, 
+Su Dongpo rewarded workers with stewed pork in soy sauce, and people later named it Dongpo Meat, to commemorate this gifted and generous poet.
+
+10 Fujian cuisine boasts a famous dish called Buddha Jumping over the Wall, the number one dish of the province. This dish is prepared with more than 
+20 main ingredients including chicken, duck, sea cucumber, dried scallop, tendon, shark lip, fish maw and ham. All these ingredients are placed into a ceramic pot, 
+with cooking wine and chicken broth, and then cooked over a slow fire until the meat is tender and juicy and the soup becomes smooth and thick. Then it is served with 
+more than a dozen garnishes such as mushrooms, winter bamboo shoots and pigeon eggs. It is famous for leaving a lingering aftertaste in the mouth. 
+The story behind the name of the specialty goes as follows:
+
+11 Buddha Jumping over the Wall was created in a restaurant called Gathering Spring Garden in Fuzhou, Fujian, during the reign of the Qing Emperor, Guangxu (1875-1908).
+It was named Eight Treasures Stewed in a Pot and the name was later changed to Blessing and Longevity. One day, several scholars came to Gathering Spring Garden for a meal.
+When the dish was served, one of the scholars improvised a poem: "Fragrance spreads to the neighborhood once the lid lifts, / One whiff and the Buddha Jumps the wall,
+abandoning the Zen precepts” Hence the name of the dish!
+
+12 Warmth and Hospitality Expressed by Food
+In the eyes of Chinese, what is important about eating, especially at festivals, is to eat in a warm atmosphere. 
+Often the young and old still sit in order of seniority, and the elders select food for the young while the young make toasts to the elders. 
+Chinese people like to create a lively, warm, and harmonious atmosphere during meals.
+
+13 A hostess or host in China will apportion the best parts of the dishes to guests. Using a pair of serving chopsticks, 
+    she or he places the best part of a steamed fish or the most tender piece of meat on the plate of the most important guest. Such a custom is still popular,
+especially among the elder generation, as a way of expressing respect, concern and hospitality.
+
+14 Such culinary customs have had a certain influence on the character of the Chinese people. In a sense, it has strengthened 
+the collective spirit of the nation. At a party or a banquet, everyone first takes into consideration the needs of the group, 
+with the eating process also being a time to show humility and concern for others.
+
+
+15 In China, food eaten during festivals is particularly important. At different festivals, people partake of different fare. For example, 
+on the eve of the Spring Festival, people in the north always eat jiaozi, meat and vegetable dumplings, at family reunions. 
+This is a way of bidding farewell to the old year and welcoming the New Year. The Lantern Festival is a day of celebration, 
+and on this day people like to eat yuanxiao, sweet dumplings made of glutinous rice flour, to symbolize family reunion and perfection. 
+At the Duanwu Festival, people eat zongzi, glutinous rice wrapped in triangular shape in reed leaves, to commemorate the beloved poet Qu Yuan (c.1339-c. 278 BC), 
+who drowned himself in the Miluo River after being politically wronged. Legend has it that people at the time threw zongzi into the river in the hope that the dragon 
+would not take him away. This later gradually developed into a custom of making and eating zongzi during the Duanwu Festival.
+"""
 
 """
 
@@ -82,43 +146,9 @@ class HAManagerInterface:
 
 
 
-"""
-It’s easy to dismiss (否定) as absurd (荒谬的) the federal (联邦的) government’s ideas for plugging (填补) the chronic (长期的)
-funding gap (资金缺口) of our national parks (国家公园). Can anyone really think it’s a good idea to allow Amazon deliveries
-(派送) to your tent in Yosemite (优胜美地) or food trucks (餐车) to line up under the redwood trees (红杉树) at Sequoia National
-Park (红杉国家公园)?
-But the administration (政府) is right about one thing: U.S. national parks are in crisis (危机). Collectively (总体来说), they
-have a maintenance backlog (维修积压) of more than $12 billion. Roads (道路), trails (小径), restrooms (卫生间), visitor centers
-(游客中心) and other infrastructure (基础设施) are crumbling (破损).
-But privatizing (私有化) and commercializing (商业化) the campgrounds (露营地) would not be the panacea (灵丹妙药) that the Interior
-Department’s (内政部) Outdoor Advisory Committee (户外咨询委员会) would have us believe. Campgrounds are a tiny portion (小部分) of
-the overall infrastructure backlog, and concessionaires (特许经营商) in the parks hand over, on average (平均), only about 5%
-of their revenues (收入) to the National Park Service (国家公园管理局).
-Moreover (此外), increased privatization would certainly undercut (削弱) one of the major reasons (主要原因) why 300 million
-visitors come to the parks each year: to enjoy nature (享受自然) and get a respite (休息) from the commercial drumbeat
-(商业的鼓噪) that overwhelms (淹没) daily life.
-The real problem is that the parks have been chronically starved (长期匮乏) of funding. We conducted a comprehensive (全面的)
-survey (调查) examining how U.S. residents view their national parks, and we found that Americans place a very high value
-(重视) on them—whether or not they actually visit them. The peer-reviewed (同行评审的) economic survey of 700 U.S. taxpayers
-(纳税人), conducted by mail and internet, also found that people would be willing to pay a significant (可观的) amount of
-money to make sure the parks and their programs are kept intact (完好无损). Some 81% of respondents (受访者) said they would
-be willing to pay additional taxes (额外税款) for the next 10 years to avoid any cuts to the national parks.
-The national parks provide great value to U.S. residents both as places to escape (逃离) and as symbols (象征) of nature.
-On top of this, they produce value from their extensive (广泛的) educational programs (教育项目), their positive impact (积极影响)
-on the climate (气候) through carbon sequestration (碳封存), their contribution (贡献) to our cultural (文化的) and artistic
-(艺术的) life, and of course through tourism (旅游).
-The parks also help keep America’s past alive, working with thousands of local jurisdictions (地方司法管辖区) around the
-country to protect historical sites (历史遗址)—including Ellis Island (埃利斯岛) and Gettysburg (葛底斯堡)—and to bring the stories
-of these places to life. The parks do all this on a shoestring (极少的资金). Congress (国会) allocates (拨款) only $3 billion a
-year to the national park system—an amount that has been flat (持平) since 2001 (in inflation-adjusted dollars) with the
-exception (例外) of a onetime (一次性的) boost in 2009 as part of the Obama stimulus package (刺激方案). Meanwhile (同时), the
-number of annual visitors has increased by more than 50% since 1980, and now stands at 330 million visitors per year.
+
 
 """
-
-
-
-
 
 
 
