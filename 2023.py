@@ -1,6 +1,121 @@
 
 """
 """
+
+
+      
+                          
+No	Word	Meaning	No	Word	Meaning
+1	abundant	adj.大量的，丰富的，充足的	18	beloved	adj.深爱的,钟爱的n.爱人
+2	academia	n.学术界，学术环境	19	boasts	v.有（引以为荣的事物）( boast的第三人称单数 ),扬言
+3	access	n.入口，通道,（使用或见到的）机会/权利v.访问，存取（计算机信息）,到达，进入，使用	20	braised	adj.炖熟的，焖熟的，用文火炖到全熟的v.炖，焖( braise的过去式和过去分词 )
+4	accomplishments	n.造诣,完成( accomplishment的名词复数 ),技能,成绩,成就	21	bright	adj.明亮的,鲜艳的,晴朗的,欢快的,聪明的,有希望的adv.明亮地n.车辆前灯
+5	acquisition	n.收购,获得,购得物,（知识等的）习得	22	brink	n.边缘
+6	acumen	n.敏锐, 聪明,<植>渐尖头,<动>短刺	23	broth	n.肉汤,培养基,发酵液
+7	aftertaste	n.回味，余韵	24	budding	adj.正发芽的,开始发育的,初露头角的,新获得成功的v.“bud”的现在分词
+8	alumni	n.（男）校友，（男）毕业生,校友( alumnus的名词复数 )	25	caps	abbr.capitals （复数）大写字母,collection account processing system 账款收集处理系统,computer-assisted passenger screening 计算机辅助乘客放映n.（钢笔、瓶子等的）帽( cap的名词复数 ),便帽,软帽,（大学师生在特别场合戴的）方帽
+9	ambiguity	n.歧义,不明确，模棱两可,暧昧	26	catholic	adj.包罗万象的,广泛的,天主教的,基督教会的
+10	antiquity	n.古老，古代,古迹，古物,古人,古代的风俗习惯	27	ceramic	n.陶瓷（制品）,制陶术
+11	apportion	vt.分摊，分配	28	chemist	n.药店,药剂师,化学家
+12	apprentice	n.学徒，徒弟v.使当…的学徒	29	childlike	adj.孩子般的,天真的
+13	aspirations	n.强烈的愿望( aspiration的名词复数 ),志向,发送气音,发 h 音	30	Chili Pepper	红辣椒
+14	assert	v.坚称，断言,维护，坚持,坚持主张，表现坚定	31	chrysanthemum	n.菊花,菊属
+15	assess	v.评估,估价,估算	32	circumstances	n.境况，境遇,（尤指）经济状况,条件,环境( circumstance的名词复数 )
+16	assets	n.资产,资本，人才，优点（ asset的名词复数 ）	33	collective	adj.共有的,总体的n.企业集团
+17	authentic	adj.真正的,真诚的,逼真的,可靠的	34	commemorate	v.纪念
+35	conceive	v.想象，构想,认为,怀孕	54	discernment	n.<褒>识别能力,洞察力,敏锐,精明
+36	concept	n.概念,观念	55	disciplines	n.学科( discipline的名词复数 ),符合行为准则的行为（或举止）v.训练( discipline的第三人称单数 ),（通过训练和监督）使有纪律,处罚,使有条理
+37	concubine	n.妾，妃子	56	discourse	n.演讲，论述,论文,〈语〉语篇，话语v.论述
+38	conducive	adj.有助于…的,有益于…的	57	disposition	n.性格,倾向,排列，布置,（财产）赠予，分配
+39	consciousness	n.清醒状态,意识,看法	58	distinct	adj.不同的,清楚的，明显的,确切的
+40	Consequently	adv.因此,结果	59	diverse	adj.形形色色的,不同的
+41	contaminate	v.污染，弄脏,毒害（人的思想或品德）	60	division	n.分开,分配,除法,分歧,部门,（军队）师,分组表决,（足球）级,分界线
+42	convictions	n.确信( conviction的名词复数 ),判罪,定罪,证明有罪	61	documenting	[计] 文件编制
+43	crafted	vt.手工制作（craft的过去式与过去分词形式）	62	drainage	n.排水，放水,排水系统
+44	cucumber	n.黄瓜	63	eccentric	adj.古怪的n.怪人
+45	culinary	adj.厨房的，烹饪的,烹调用的	64	eloquent	adj.口才流利的,有说服力的,传神的
+46	cultivate	v.耕作，种植,培养（品质等）,结交（朋友）	65	embrace	v.拥抱,欣然接受,信奉,包括
+47	deceive	v.欺骗,蒙骗（自己） ,误导	66	embryo	n.<生>胚，胚胎,胚芽,初期
+48	delicate	adj.脆弱的,虚弱的,纤细的,精致的,熟练的,娇美的,柔和的,鲜美的,清香的,微妙的,技巧性很强的	67	end up	(尤指经历一系列意外后)最终处于，到头来
+49	demands	v.要求( demand的第三人称单数 ),需要,想要知道,查问	68	engrosses	v.使全神贯注( engross的第三人称单数 )
+50	democratic	adj.民主（制度）的,（美国）民主党的	69	essential	adj.基本的,必不可少的 ,根本的n.必需品,基本知识
+51	demonstrated	v.举行示威游行（或集会）( demonstrate的过去式和过去分词 ),示范。展示,显示,论证	70	exclusive	adj.独有的,高档的,排外的,不含…的n.独家新闻
+52	diffusion	n.扩散，传播,漫射	71	exerted	adj.外露的v.用（力）( exert的过去式和过去分词 ),尽（力）,运用,发挥
+53	digest	v.消化,理解n.摘要,文摘	72	exquisite	adj.精致的,剧烈的,敏锐的
+73	far-reaching	adj.深远的，广泛的，深至远处的	92	ham	n.火腿,（旧时的）小镇，村庄,大腿后部,拙劣演员（尤指表演过火者）
+74	fare	n.车费，票价,餐点,出租车乘客v.进展，成功	93	hat	n.帽子,（帽子所表示的）职位，职务
+75	farewell	n.告别,欢送会int.再见	94	Hospitality	n.殷勤好客,招待，款待,（气候，环境等的）宜人，适宜
+76	federal	adj.联邦制的,联邦政府的	95	hospitality	n.殷勤好客,招待，款待,（气候，环境等的）宜人，适宜
+77	fermented	v.（使）发酵( ferment的过去式和过去分词 ),（使）激动,骚动,骚扰	96	hostess	n.女主人,舞女,（电视或广播节目的）女主持人
+78	flour	n.面粉vt.撒上粉	97	humility	n.谦逊，谦恭,谦让的行为,谦虚谨慎
+79	foremost	adj.第一流的，最重要的,最初的，最前面的adv.首先,居于首位地	98	immunized	vt.使免疫（immunize的过去式与过去分词形式）
+80	formal	adj.正式的,正规的,方式上的,整齐的	99	Impatient	adj.没有耐心的,迫切的,不能容忍的
+81	forum	n.论坛，讨论会，专题讨论节目,集会的公共场所,提供公开讨论的媒体,法庭	100	imperfect	adj.有缺点的，不完美的,[语]未完成过去时的,[生]只有雄蕊或雌蕊的,[法]在法律上不能实施的n.处理品，瑕疵品,[语]未完成式
+82	fosters	v.培养，促进( foster的第三人称单数 ),收养，养育	101	improvised	adj.即兴的v.临时拼凑,即兴演奏（improvise 的过去式及过去分词）
+83	Fragrance	n.芳香，芬芳,浓馥，香气,香水，常用于广告语	102	in pursuit of	追求，寻求
+84	frameworks	n.构架( framework的名词复数 ),结构,（体系的）结构,（作为判断、决定等基础的）信仰	103	inaugural	adj.就职的，就任的,创始的，最早的
+85	frequent	adj.频繁的v.常去	104	incomplete	adj.不完全的,未完成的,不完备的,片n.（学业成绩评分）未修毕，未完成
+86	fundamental	adj.基础的,根深蒂固的,必须的,基频的,基音的n.原理,基音,基谐波	105	incubators	n.孵化器( incubator的名词复数 ),（用于放置早产婴儿的）恒温箱
+87	funds	n.基金( fund的名词复数 ),储备,现款,特别基金管理机构	106	Indeed	adv.确实,实际上,究竟
+88	garnishes	n.（为色香味而添加的）装饰菜( garnish的名词复数 ),装饰，装饰品v.给（上餐桌的食物）加装饰( garnish的第三人称单数 )	107	indeed	adv.确实,实际上,究竟
+89	ginger	n.姜，生姜,姜黄色,精力，活力adj.姜黄色的	108	indestructible	adj.不能破坏的，不可毁灭的,坚不可摧
+90	glutinous	adj.黏的，胶质的,粘	109	instinctive	adj.天生的，生来的,本能的，直觉的
+91	greasy	adj.油腻的,谄媚的,含脂肪多的	110	institutions	n.（大学、银行等规模大的）机构( institution的名词复数 ),建立,慈善机构,知名人士
+111	intellectual	adj.智力的,有才智的,需用智力的,智力发达的n.知识分子,脑力劳动者,有极高智力的人,凭理智（而非感情）办事的人	130	moderate	adj.有节制的,稳健的，温和的,适度的，中等的,<美俚>慢吞吞的vt.使和缓,主持,节制vi.变缓和,作主持人n.持温和观点者（尤指政见）
+112	involved	adj.复杂难懂的,与他人有密切关系的,受牵扯的,作为一部份参与的v.表明（某人参与了罪行等）(involve的过去式和过去分词),使参与,牵涉,使专心于	131	mosaic	n.马赛克,镶嵌图案,镶嵌工艺,[植]花叶病
+113	ivory	n.象牙,象牙制品,象牙色,象牙质	132	motivations	n.动力( motivation的名词复数 ),刺激,行动方式,积极性
+114	juicy	adj.多汁的,有趣的,刺激性强的,报酬多的	133	neat	adj.整洁的,爱整洁的,小巧优雅的,灵巧的,干净利落的,很好的,未掺水的
+115	Lantern	n.灯笼,灯塔,灯罩,灯饰	134	newbies	n.初学者
+116	lantern	n.灯笼,灯塔,灯罩,灯饰	135	numbness	n.无感觉，麻木，惊呆
+117	laureate	n.资金[荣誉]获得者	136	obliterate	vt.涂去，擦掉,使消失,使被忘却,忘掉
+118	lavishly	adv.非常大方地，浪费地，极其丰富地	137	openness	n.空旷,开阔,公开,率真
+119	liberal	n.自由主义者,自由党党员adj.开明的,自由的,慷慨的,不拘泥的	138	owe	v.欠钱/情,应把…归因于,服从,有必要为
+120	lingering	adj.拖延的，逗留不去的v.逗留( linger的现在分词 ),缓慢消失,苟延残喘,持续看（或思考）	139	partake	vi.参加,参与,吃
+121	lip	n.嘴唇,（杯，壶等的）口，边缘,〈俚〉无理的回答,〈美〉律师	140	pep	n.活力，精力,劲头
+122	live up to	符合(标准)，不负(盛名)	141	perception	n.知觉,觉察（力）,观念,（农作物的）收获
+123	mag	n.〈英俚〉半便士,玛格（女子名）(Margaret的昵称)abbr.杂志(=magazine)	142	philosophers	n.哲学家( philosopher的名词复数 ),豁达的人
+124	mankind	n.人类	143	porous	adj.能穿透的，能渗透的,有毛孔或气孔的,漏洞多的,易穿过的
+125	mastery	n.精通，熟练,统治，控制,优势	144	precepts	n.规诫，戒律，箴言( precept的名词复数 )
+126	matrix	n.<数>矩阵,模型,基质,母体，子宫	145	predecessors	n.前任( predecessor的名词复数 ),前辈,（被取代的）原有事物,前身
+127	maw	n.动物的胃	146	prioritize	vt.按重要性排列，划分优先顺序,优先处理
+128	medieval	adj.中古的，中世纪的	147	private sector	私营成分，私营部门
+129	mobilize	vt.调动,动员,组织，动员起来vi.动员起来	148	promotional	adj.促销的,增进的
+149	pronoun	n.<语>代词	168	seasoning	n.调味品，佐料,风干，干燥（处理），老化v.“season”的现在分词
+150	proposition	n.提议,建议,待处理的问题,主张v.向…提议；向…求欢	169	serendipity	n.意外发现珍奇事物的才能, 意外新发现,巧事,机缘凑巧
+151	prospective	adj.预期的,未来的,可能的,有希望的	170	serving chopsticks	公筷
+152	prosperous	adj.繁荣的，兴旺的,富裕的,幸福的，运气好的,良好的	171	spacious	adj.宽敞的,广阔的,（知识）广博的
+153	proverbial	adj.谚语的,众所周知的，出名的,已成话柄的	172	sprout	vi.发芽,抽芽vt.使发芽,使生长n.幼芽，新梢,[植]球芽甘蓝,幼苗状物，年轻人,美俚〉后代
+154	pursuit	n.追求，寻求 ,追赶,贯彻，实施,娱乐，爱好	173	stewed	adj.焦虑不安的，烂醉的v.炖( stew的过去式和过去分词 ),煨,思考,担忧
+155	reed	n.芦苇,芦苇杆,[乐]舌簧	174	Storehouse	n.仓库,货栈,知识宝库,知识丰富的人
+156	refined	adj.精炼的,精制的,经过改良的,举止优雅的v.精炼( refine的过去式和过去分词),精制,使纯净,使文雅高尚	175	storehouse	n.仓库,货栈,知识宝库,知识丰富的人
+157	refinement	n.精炼，提纯，净化,改良品,细微的改良，极致,优雅，高贵的动作	176	streaky	adj.有斑点的，有条纹的，容易变的
+158	reign	vi.当政，统治,占主导地位vt.想法、情感或氛围盛行，成为最显著的n.君主的统治,君主统治时期,任期,当政期	177	subsidize	vt.以津贴补助,以金钱收买,向…发放奖金,用贿赂拉拢
+159	renowned	adj.有名的，享有声誉的,有声望的v.使有声誉(renown的过去分词)	178	suffuse	vt.（指颜色、水气等）弥漫于，布满
+160	reputation	n.名誉，名声	179	superseded	adj.[医]被代替的，废弃的v.取代，接替( supersede的过去式和过去分词 )
+161	reunions	n.相聚( reunion的名词复数 ),团圆,重逢,团聚	180	surface	n.表面，表层,台面，操作台,外表v.浮出水面,公开,露面adj.(军队)陆上的，水上的
+162	rewarded	v.酬谢，奖赏( reward的过去式和过去分词 )	181	surpassed	v.超过( surpass的过去式和过去分词 ),优于,多于,非…所能办到
+163	rightfully	adv.正直地，正当地	182	swayed	v.（使）摇摆， （使）摇动( sway的过去式和过去分词 ),影响、改变…的观点[行动]
+164	rigor	n.严格,严酷,严密,（由惊吓或中毒等导致的身体）僵直	183	symbolize	vt.象征,用符号表现vi.使用符号,采用象征,作为…的象征
+165	scallop	n.扇贝,扇贝壳,扇（贝）形vt.使成扇形vi.拾扇贝	184	temperament	n.性格,（人或动物的）气质,易冲动,（性情）暴躁
+166	scattered	adj.分散的,零散的,疏落的,到处都是…的	185	tender	adj.纤弱的,嫩的,温柔的,疼痛的n.（正式）提出,投标,供应船，联络船,照看者vt.正式提出,使变脆弱,<古>温柔地对待
+167	scholars	n.奖学金获得者( scholar的名词复数 ),学者,聪颖勤奋的学生,文人学士	186	tendon	n.<解>筋，腱
+187	thriving	adj.兴旺的，旺盛的，繁荣的v.兴盛，兴隆( thrive的现在分词 ),长得健壮			
+188	throughout	prep.自始至终,遍及adv.自始至终,遍及			
+189	time-cherished	珍惜时间的悠久的			
+190	trait	n.特点，特征，特性			
+191	TRAITS	n.人的个性，显著的特点，特征( trait的名词复数 )			
+192	traits	n.人的个性，显著的特点，特征( trait的名词复数 )			
+193	transition	n.过渡，转变，变迁,[语]转换,[乐]变调v.转变，过渡			
+194	tyrant	n.专制统治者，暴君,（古希腊的）僭主,专横的人			
+195	undergone	v.经历，承受( undergo的过去分词 )			
+196	unfolds	v.显露，展现( unfold的第三人称单数 ),展开，打开			
+197	unwise	adj.不明智的，不聪明的,愚蠢的,欠考虑的,轻率的			
+198	utilitarian	adj.功利的,功利主义的，实利主义的,有效用的,实用的			
+199	vitality	n.活力,生气,生命力,持久性			
+200	vulnerabilities	脆弱点			
+201	wisely	adv.聪明地，英明地,明智地			
+202	xylophone	n.木琴			
+
 Unit One
 Universally recognized as one of the greatest cuisines of the world, Chinese food in all its variety and complexity 
 is unquestionably one of the finest pleasures a visitor can experience in China. 
